@@ -3,6 +3,8 @@
 ## 열심휘 공부 중...
 ![image](https://github.com/user-attachments/assets/0e1a0a2f-3715-4aa9-9b2a-fab7f21d2d53)
 
+## 기능 모음 사이트
+[기능 모음 사이트](https://functionweb.netlify.app/)
 <!--
 **choimagon/choimagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
