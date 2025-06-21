@@ -3,8 +3,15 @@
 ## 기능 모음 사이트
 [기능 모음 사이트](https://functionweb.netlify.app/)
 
-## 열심휘 공부 중...
-![image](https://github.com/user-attachments/assets/0e1a0a2f-3715-4aa9-9b2a-fab7f21d2d53)
+## 라이브러리
+### CodeTracer
+```bash
+pip install git+https://github.com/choimagon/CodeTracer.git
+```
+### ColorLog
+```bash
+pip install git+https://github.com/choimagon/ColorLog.git
+```
 <!--
 **choimagon/choimagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
