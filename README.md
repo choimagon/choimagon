@@ -3,7 +3,7 @@
 ## 기능 모음 사이트
 [기능 모음 사이트](https://functionweb.netlify.app/)
 
-## 라이브러리
+## 내가 만든 라이브러리
 ### CodeTracer
 ```bash
 pip install git+https://github.com/choimagon/CodeTracer.git
