@@ -6,7 +6,8 @@
 
 ## 하고 있는 프로젝트 코드
 [BEVFormer](https://github.com/fundamentalvision/BEVFormer)
-[3DGS](https://github.com/graphdeco-inria/on-the-fly-nvs)
+[3DGS-onthefly](https://github.com/graphdeco-inria/on-the-fly-nvs)
+[3DGS](https://github.com/graphdeco-inria/gaussian-splatting)
 
 ## 내가 만든 라이브러리
 ### CodeTracer
