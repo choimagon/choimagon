@@ -4,7 +4,7 @@
 [기능 모음 사이트](https://functionweb.netlify.app/)
 [webvo](https://webvo.netlify.app/)
 
-## 하고 있는 프로젝트 코드
+## 뜯어 먹는 중인 깃허브 코드
 [BEVFormer](https://github.com/fundamentalvision/BEVFormer)
 [3DGS-onthefly](https://github.com/graphdeco-inria/on-the-fly-nvs)
 [3DGS](https://github.com/graphdeco-inria/gaussian-splatting)
