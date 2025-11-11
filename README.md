@@ -3,6 +3,7 @@
 ## 기능 모음 사이트
 [기능 모음 사이트](https://functionweb.netlify.app/)
 [webvo](https://webvo.netlify.app/)
+[3DGS Web](https://3dgsweb.netlify.app/)
 
 ## 뜯어 먹는 중인 깃허브 코드
 [BEVFormer](https://github.com/fundamentalvision/BEVFormer)
