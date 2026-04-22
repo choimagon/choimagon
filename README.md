@@ -6,6 +6,9 @@
 [webvo](https://webvo.netlify.app/)
 [3DGS Web](https://3dgsweb.netlify.app/)
 
+## My CLI
+[conda,cuda환경 CLI](https://github.com/choimagon/Environment_CLI)
+
 ## 지금 마시는 깃허브
 [BEVFormer](https://github.com/fundamentalvision/BEVFormer)
 [3DGS-onthefly](https://github.com/graphdeco-inria/on-the-fly-nvs)
