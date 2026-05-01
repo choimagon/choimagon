@@ -7,7 +7,10 @@
 [3DGS Web](https://3dgsweb.netlify.app/)
 
 ## My CLI
+conda하고 cuda 환경 설정 편하게 하기
 [conda,cuda환경 CLI](https://github.com/choimagon/Environment_CLI)
+tailscale로 다른 pc에 ssh 연결하는거 편하게 하기
+[tailscale-ssh CLI](https://github.com/choimagon/TailscaleSSH_CLI)
 
 ## 지금 마시는 깃허브
 [BEVFormer](https://github.com/fundamentalvision/BEVFormer)
