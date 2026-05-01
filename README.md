@@ -1,4 +1,4 @@
-# 🚀 Jihoon Choi
+# Jihoon Choi
 
 ## 🧑‍💻 About
 - Computer Vision / SLAM / Robotics
