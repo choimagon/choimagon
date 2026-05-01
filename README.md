@@ -9,11 +9,6 @@
 
 ## 🔥 Projects
 
-### 📌 Core
-- https://github.com/choimagon/TIP  
-
----
-
 ### 🌐 Web
 - https://functionweb.netlify.app/  
 - https://webvo.netlify.app/  
@@ -27,11 +22,6 @@
 
 ---
 
-## 📚 Studying
-- LIVO, ORB_SLAM3, TGS
-
----
-
 ## 📦 Self Libraries
 
 ### CodeTracer
@@ -40,5 +30,15 @@ pip install git+https://github.com/choimagon/CodeTracer.git
 ### ColorLog
 pip install git+https://github.com/choimagon/ColorLog.git
 
+
+### ⚡ Quick Tips
+- https://github.com/choimagon/TIP  
+
 ---
+
+## 📚 Studying
+- LIVO, ORB_SLAM3, TGS
+
+---
+
 
