@@ -25,10 +25,10 @@
 ## 📦 Self Libraries
 
 ### CodeTracer
-```pip install git+https://github.com/choimagon/CodeTracer.git```
+> ```pip install git+https://github.com/choimagon/CodeTracer.git```
 
 ### ColorLog
-```pip install git+https://github.com/choimagon/ColorLog.git```
+> ```pip install git+https://github.com/choimagon/ColorLog.git```
 
 
 ### ⚡ Quick Tips
