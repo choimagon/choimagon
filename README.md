@@ -17,7 +17,9 @@
 ---
 
 ### 🧰 Self CLI Tools
-- https://github.com/choimagon/Environment_CLI  
+#### Conda/Cuda 설정 CLI
+- https://github.com/choimagon/Environment_CLI
+#### Tailscale연동 ssh 접근 CLI
 - https://github.com/choimagon/TailscaleSSH_CLI  
 
 ---
@@ -33,7 +35,9 @@ pip install git+https://github.com/choimagon/CodeTracer.git
 ```bash
 pip install git+https://github.com/choimagon/ColorLog.git
 ```
-
+## 🍎 macOS Apps
+### BlackBar
+- https://github.com/choimagon/BlackBar
 
 ### ⚡ Quick Tips
 - https://github.com/choimagon/TIP  
