@@ -2,17 +2,20 @@
 
 # Jihun Choi
 
-### Computer Vision · SLAM · Robotics  
+### Computer Vision · SLAM · Robotics
+
 Visual Odometry · 3D Reconstruction · AI Feature Matching
 
 <br/>
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
 
 </div>
+
+<br/>
 
 ---
 
@@ -20,27 +23,30 @@ Visual Odometry · 3D Reconstruction · AI Feature Matching
 
 <div align="center">
 
-<table>
+<table width="720">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="240">
 
-### 🧠 Research Focus
+<b>Research</b>
+
 Computer Vision  
 SLAM  
 Robotics
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="240">
 
-### 🛰 Core Interest
+<b>Core</b>
+
 Visual Odometry  
 3D Reconstruction  
 AI Feature Matching
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="240">
 
-### ⚙️ Tech Stack
+<b>Stack</b>
+
 PyTorch  
 OpenCV  
 CUDA / ONNX
@@ -55,190 +61,183 @@ CUDA / ONNX
 
 ## 🔥 Toy Projects
 
-<table>
-<tr>
-<td width="33%" align="center">
+<div align="center">
 
-### 🌐 Function Web
+<table width="720">
+<tr>
+<td align="center" width="360">
+
+### Function Web
 
 Interactive web toy project
 
-<br/>
-
 <a href="https://functionweb.netlify.app/">
-<img src="https://img.shields.io/badge/Open-Function_Web-111111?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
+<img src="https://img.shields.io/badge/Open-Function_Web-111111?style=flat-square&logo=netlify&logoColor=00C7B7"/>
 </a>
 
 </td>
-<td width="33%" align="center">
+<td align="center" width="360">
 
-### 🌐 WebVO
+### WebVO
 
 Visual Odometry web demo
 
-<br/>
-
 <a href="https://webvo.netlify.app/">
-<img src="https://img.shields.io/badge/Open-WebVO-111111?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
+<img src="https://img.shields.io/badge/Open-WebVO-111111?style=flat-square&logo=netlify&logoColor=00C7B7"/>
 </a>
 
 </td>
-<td width="33%" align="center">
+</tr>
+<tr>
+<td align="center" width="360">
 
-### 🌐 3DGS Web
+### 3DGS Web
 
 3D Gaussian Splatting web viewer
 
-<br/>
-
 <a href="https://3dgsweb.netlify.app/">
-<img src="https://img.shields.io/badge/Open-3DGS_Web-111111?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
+<img src="https://img.shields.io/badge/Open-3DGS_Web-111111?style=flat-square&logo=netlify&logoColor=00C7B7"/>
+</a>
+
+</td>
+<td align="center" width="360">
+
+### Quick Tips
+
+Personal study notes and quick references
+
+<a href="https://github.com/choimagon/TIP">
+<img src="https://img.shields.io/badge/GitHub-TIP-181717?style=flat-square&logo=github"/>
 </a>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
 ## 🧰 Self CLI Tools
 
-<table>
+<div align="center">
+
+<table width="720">
 <tr>
-<td width="50%" align="center">
+<td align="center" width="360">
 
-### Conda / CUDA Environment CLI
+### Environment CLI
 
-Conda and CUDA environment setup helper
-
-<br/>
+Conda / CUDA environment setup helper
 
 <a href="https://github.com/choimagon/Environment_CLI">
-<img src="https://img.shields.io/badge/GitHub-Environment_CLI-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Environment_CLI-181717?style=flat-square&logo=github"/>
 </a>
 
 </td>
-<td width="50%" align="center">
+<td align="center" width="360">
 
 ### Tailscale SSH CLI
 
 SSH access helper with Tailscale integration
 
-<br/>
-
 <a href="https://github.com/choimagon/TailscaleSSH_CLI">
-<img src="https://img.shields.io/badge/GitHub-TailscaleSSH_CLI-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-TailscaleSSH_CLI-181717?style=flat-square&logo=github"/>
 </a>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
 ## 📦 Self Libraries
 
-<table>
+<div align="center">
+
+<table width="720">
 <tr>
-<td width="50%" align="center">
+<td align="center" width="360">
 
 ### CodeTracer
 
 Simple code tracing utility
 
-<br/>
-
 <a href="https://github.com/choimagon/CodeTracer">
-<img src="https://img.shields.io/badge/GitHub-CodeTracer-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-CodeTracer-181717?style=flat-square&logo=github"/>
 </a>
 
-<br/>
-<br/>
+<br/><br/>
 
-```bash
-pip install git+https://github.com/choimagon/CodeTracer.git
-```
+`pip install git+https://github.com/choimagon/CodeTracer.git`
 
 </td>
-<td width="50%" align="center">
+<td align="center" width="360">
 
 ### ColorLog
 
 Colored logging utility
 
-<br/>
-
 <a href="https://github.com/choimagon/ColorLog">
-<img src="https://img.shields.io/badge/GitHub-ColorLog-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-ColorLog-181717?style=flat-square&logo=github"/>
 </a>
 
-<br/>
-<br/>
+<br/><br/>
 
-```bash
-pip install git+https://github.com/choimagon/ColorLog.git
-```
+`pip install git+https://github.com/choimagon/ColorLog.git`
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
 ## 🍎 macOS Apps
 
-<table>
+<div align="center">
+
+<table width="720">
 <tr>
-<td width="100%" align="center">
+<td align="center">
 
 ### BlackBar
 
 macOS utility app
 
-<br/>
-
 <a href="https://github.com/choimagon/BlackBar">
-<img src="https://img.shields.io/badge/GitHub-BlackBar-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-BlackBar-181717?style=flat-square&logo=github"/>
 </a>
 
 </td>
 </tr>
 </table>
 
----
-
-## ⚡ Quick Tips
-
-<div align="center">
-
-<a href="https://github.com/choimagon/TIP">
-<img src="https://img.shields.io/badge/GitHub-TIP-181717?style=for-the-badge&logo=github"/>
-</a>
-
 </div>
 
 ---
 
-## 📚 Currently Studying
+## 📚 Studying
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LIVO-222222?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ORB--SLAM3-222222?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TGS-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LIVO-222222?style=flat-square"/>
+<img src="https://img.shields.io/badge/ORB--SLAM3-222222?style=flat-square"/>
+<img src="https://img.shields.io/badge/TGS-222222?style=flat-square"/>
 
 </div>
-
----
-
-<div align="center">
-
-### CV / SLAM / Robotics Engineer
-
-Building practical tools for vision, mapping, and intelligent systems.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:444444&height=100&section=footer"/>
+<div align="center">
+
+<b>CV / SLAM / Robotics Engineer</b>
+
+<br/>
+
+Building practical tools for vision, mapping, and intelligent systems.
 
 </div>
