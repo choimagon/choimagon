@@ -7,7 +7,7 @@
 
 ---
 
-## 🔥 Projects
+## 🔥 Toy Projects
 
 ### 🌐 Web
 - https://functionweb.netlify.app/  
@@ -24,20 +24,24 @@
 
 ---
 
-## 📦 Self Libraries
+### 📦 Self Libraries
 
-### CodeTracer
+#### CodeTracer
 ```bash
 pip install git+https://github.com/choimagon/CodeTracer.git
 ```
 
-### ColorLog
+#### ColorLog
 ```bash
 pip install git+https://github.com/choimagon/ColorLog.git
 ```
-## 🍎 macOS Apps
-### BlackBar
+---
+
+### 🍎 macOS Apps
+#### BlackBar
 - https://github.com/choimagon/BlackBar
+
+---
 
 ### ⚡ Quick Tips
 - https://github.com/choimagon/TIP  
