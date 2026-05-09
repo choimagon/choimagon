@@ -88,6 +88,7 @@ Visual Odometry web demo
 
 </td>
 </tr>
+
 <tr>
 <td align="center" width="360">
 
@@ -202,14 +203,26 @@ Colored logging utility
 
 <table width="720">
 <tr>
-<td align="center">
+<td align="center" width="360">
 
 ### BlackBar
 
-macOS utility app
+Minimal macOS menu bar utility
 
 <a href="https://github.com/choimagon/BlackBar">
 <img src="https://img.shields.io/badge/GitHub-BlackBar-181717?style=flat-square&logo=github"/>
+</a>
+
+</td>
+
+<td align="center" width="360">
+
+### YoutubeBar
+
+YouTube control utility for macOS menu bar
+
+<a href="https://github.com/choimagon/YoutubeBar">
+<img src="https://img.shields.io/badge/GitHub-YoutubeBar-181717?style=flat-square&logo=github"/>
 </a>
 
 </td>
